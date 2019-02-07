@@ -1,0 +1,4 @@
+br\com\tpa\soc_teste\model\Exame.class
+br\com\tpa\soc_teste\service\ExameService.class
+br\com\tpa\soc_teste\dao\ExameDao.class
+br\com\tpa\soc_teste\action\ExameAction.class

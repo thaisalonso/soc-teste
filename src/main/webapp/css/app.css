@@ -1,0 +1,16 @@
+.label {
+	color: black !important;
+}
+
+.tdLabel {
+	vertical-align: middle !important;
+	padding-top: 10px !important;
+}
+
+.form-control {
+	margin-top: 10px !important;
+}
+
+.btn {
+	margin-top: 10px !important;
+}
